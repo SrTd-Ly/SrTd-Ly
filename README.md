@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SrTd-Ly
-- 👀 I’m interested in syberSecurity 
+- 👀 I’m interested in CyberSecurity 
 - 🌱 I’m currently learning pentesting, programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
