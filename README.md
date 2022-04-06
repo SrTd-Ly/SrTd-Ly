@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SrTd-Ly
 - 👀 I’m interested in CyberSecurity 
 - 🌱 I’m currently learning pentesting, programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me , Instagram: @SrTd_Ly
 
 <!---
 SrTd-Ly/SrTd-Ly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
